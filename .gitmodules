@@ -1,0 +1,6 @@
+[submodule "MyJavaProject"]
+	path = MyJavaProject
+	url = git@github.com:mehdie79/MyJavaProject.git
+[submodule "MyWebsite"]
+	path = MyWebsite
+	url = git@github.com:mehdie79/MyWebsite.git
